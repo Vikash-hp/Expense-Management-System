@@ -1,0 +1,221 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Layout */
+  .filters {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin: 20px;
+    background-color: #fff;
+    padding: 20px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 8px;
+  }
+  
+  .filters h6 {
+    font-weight: bold;
+    color: #333;
+  }
+  
+  .filters div {
+    flex: 1;
+    margin-right: 20px;
+  }
+  
+  .filters{
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+  }
+
+  .switch-icons{
+    display: flex;
+    align-items: center;
+    justify-content:space-around;
+    
+    
+  }
+  
+  .filters .switch-icons .active-icon {
+    color: #1890ff;
+    font-size: 1.5rem;
+    cursor: pointer;
+    transition: color 0.3s ease;
+  }
+  
+  .filters .switch-icons .inactive-icon {
+    color: #ccc;
+    font-size: 1.5rem;
+    cursor: pointer;
+    transition: color 0.3s ease;
+  }
+  
+  .filters .switch-icons .active-icon:hover,
+  .filters .switch-icons .inactive-icon:hover {
+    color: #40a9ff;
+  }
+  
+  .filters button {
+    padding: 10px 20px;
+    background-color: #1890ff;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  .filters button:hover {
+    background-color: #40a9ff;
+  }
+  
+  .content {
+    margin: 20px;
+  }
+  
+  /* Table Styles */
+  .ant-table {
+    margin-top: 20px;
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+  }
+  
+  .ant-table-thead th {
+    background-color: #f0f2f5;
+    color: #333;
+    font-weight: bold;
+    border-bottom: 2px solid #ddd;
+  }
+  
+  .ant-table-tbody td {
+    background-color: white;
+    color: #555;
+    padding: 12px 16px;
+    border-bottom: 1px solid #ddd;
+  }
+  
+  .ant-table-tbody tr:hover {
+    background-color: #fafafa;
+    cursor: pointer;
+  }
+  
+  .ant-table .ant-table-cell {
+    font-size: 14px;
+  }
+  
+  /* Modal Styles */
+  .ant-modal-content {
+    border-radius: 8px;
+  }
+  
+  .ant-modal-header {
+    background-color: #1890ff;
+    color: white;
+    border-radius: 8px 8px 0 0;
+    padding: 10px;
+  }
+  
+  .ant-modal-title {
+    font-weight: bold;
+  }
+  
+  .ant-modal-footer {
+    border-top: 1px solid #ddd;
+    padding: 15px 10px;
+  }
+  
+  .ant-form-item-label {
+    font-weight: bold;
+    color: #555;
+  }
+  
+  .ant-form-item-control-input {
+    border-radius: 5px;
+  }
+  
+  .ant-select-selector {
+    border-radius: 5px !important;
+  }
+  
+  .ant-input {
+    border-radius: 5px;
+    padding: 8px;
+  }
+  
+  button[type="submit"] {
+    background-color: #1890ff;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button[type="submit"]:hover {
+    background-color: #40a9ff;
+  }
+  
+  /* Spinner */
+  .spinner-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 9999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+    padding: 20px;
+  }
+  
+  .spinner-container .spinner {
+    font-size: 2rem;
+    color: #1890ff;
+  }
+
+  
+  
+  /* Mobile Responsiveness */
+  @media (max-width: 768px) {
+    .filters {
+      flex-direction: column;
+      align-items: flex-start;
+    }
+  
+    .filters button {
+      width: 100%;
+      margin-top: 15px;
+    }
+  
+    .filters .switch-icons {
+      justify-content: flex-start;
+    }
+  
+    .filters .switch-icons .active-icon,
+    .filters .switch-icons .inactive-icon {
+      font-size: 1.25rem;
+    }
+  
+    .content {
+      margin: 10px;
+    }
+  
+    .ant-table .ant-table-thead th {
+      font-size: 12px;
+    }
+  
+    .ant-table-tbody td {
+      font-size: 12px;
+    }
+  }
+  

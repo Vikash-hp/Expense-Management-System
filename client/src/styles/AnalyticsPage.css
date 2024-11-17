@@ -1,0 +1,162 @@
+/* General Styles */
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f8f9fa;
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    min-height: 100vh;
+  }
+  
+  /* Main content section */
+  .main-content {
+    flex: 1;
+    padding-bottom: 50px; /* Add enough padding at the bottom to avoid footer overlap */
+    overflow: auto; /* Allows scrolling if content overflows */
+  }
+  
+  /* Card Layout */
+  .card {
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    background-color: #fff;
+    margin: 15px;
+  }
+  
+  .card-header {
+    background-color: #1890ff;
+    color: #fff;
+    font-weight: bold;
+    padding: 15px;
+    border-radius: 8px 8px 0 0;
+  }
+  
+  .card-body {
+    padding: 1px 24px;
+  }
+  
+  .card-body h5 {
+    font-size: 16px;
+    margin: 10px 0;
+  }
+  
+  /* Progress Circle */
+  .ant-progress-circle {
+    margin: 10px 0;
+  }
+  
+  .ant-progress-circle .ant-progress-text {
+    font-size: 14px;
+  }
+  
+  /* Category Progress */
+  h4 {
+    color: #333;
+    font-weight: 600;
+    margin-bottom: 20px;
+    color: darkred;
+    font-size: larger;
+  }
+  
+  .card-body h5 {
+    font-size: 14px;
+    font-weight: bold;
+  }
+  
+  .card-body .ant-progress {
+    margin-top: 10px;
+    margin-bottom: 15px;
+  }
+  
+  .card-body .ant-progress .ant-progress-text {
+    font-weight: bold;
+  }
+  
+  /* Income and Expense Category */
+  .text-success {
+    color: #52c41a;
+    font-weight: bold;
+  }
+  
+  .text-danger {
+    color: #ff4d4f;
+    font-weight: bold;
+  }
+  
+  .row {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+  }
+  
+  .col-md-4 {
+    width: 30%;
+    margin-bottom: 20px;
+  }
+  
+  @media (max-width: 768px) {
+    .col-md-4 {
+      width: 100%;
+    }
+  }
+  
+  /* Button & Interaction */
+  button {
+    background-color: #1890ff;
+    color: white;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+  
+  button:hover {
+    background-color: #40a9ff;
+  }
+  
+  /* Hover Effects */
+  .card:hover {
+    transform: translateY(-5px);
+    box-shadow: 0 6px 16px rgba(0, 0, 0, 0.1);
+  }
+  
+  .card-header:hover {
+    background-color: #40a9ff;
+  }
+  
+  /* Table Styles */
+  .ant-table-thead th {
+    background-color: #f0f2f5;
+    color: #333;
+    font-weight: bold;
+  }
+  
+  .ant-table-tbody tr:hover {
+    background-color: #fafafa;
+  }
+  
+  /* Spinner */
+  .spinner-container {
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    z-index: 9999;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: rgba(0, 0, 0, 0.5);
+    border-radius: 8px;
+    padding: 20px;
+  }
+  
+  .spinner-container .spinner {
+    font-size: 2rem;
+    color: #1890ff;
+  }
+  
+  /* Footer Styling */
+  
+  
