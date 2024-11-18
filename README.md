@@ -28,7 +28,7 @@
     <li>Built with React, CSS, and Bootstrap for a seamless and responsive user interface</li>
     <li>All operations are reflected instantly in the system, thanks to the real-time backend architecture</li> <br>
   </ul>
-  <li>Database</li>
+  <li><h4>>Database</h4</li>
   <ul>
     <li>Transactions and user data stored securely in MongoDB</li>   
   </ul>
