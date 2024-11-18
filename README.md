@@ -16,7 +16,7 @@
   </ul>
   <li><h4>Data Representation:</h4></li>
   <ul>
-    <li>Tabular view for a detailed list of transactions</li>
+    <li>Tabular view for a detailed list of transactions</li> 
     <li>Graphical charts for visualizing income and expenses trends</li>
   </ul>
   <li><h4>Responsive UI</h4></li>
