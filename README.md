@@ -21,51 +21,65 @@
   </ul>
   <li><h4>Responsive UI</h4></li>
   <ul>
-     <li>Built with React, CSS, and Bootstrap for a seamless and responsive user interface</li>
+    <li>Built with React, CSS, and Bootstrap for a seamless and responsive user interface</li>
   </ul>
   <li><h4>Real-time Updates</h4></li>
    <ul>
-     <li>Built with React, CSS, and Bootstrap for a seamless and responsive user interface</li>
-     <li>All operations are reflected instantly in the system, thanks to the real-time backend architecture</li>
+    <li>Built with React, CSS, and Bootstrap for a seamless and responsive user interface</li>
+    <li>All operations are reflected instantly in the system, thanks to the real-time backend architecture</li>
   </ul>
   <li>Database</li>
   <ul>
-     <li>Transactions and user data stored securely in MongoDB</li>   
+    <li>Transactions and user data stored securely in MongoDB</li>   
   </ul>
 </ul>
 <h3>🛠️ Tech Stack</h3>
-<h4>Frontend:</h4>
-<p>React.js: For building the user interface</p> <br>
-<p>CSS & Bootstrap: For styling and layout</p> <br>
-<h4>Backend:</h4>
-<p>Node.js: For server-side development</p> <br>
-<p>Express.js: For creating API routes</p> <br>
-<h4>Database:</h4>
-<p>MongoDB: For storing user and transaction data</p> <br>
+<ul>
+  <li><h4>Frontend</h4></li>
+  <ul>
+    <li>React.js: For building the user interface</li>
+    <li>CSS & Bootstrap: For styling and layout</li>
+  </ul>
+  <li><h4>Backend:</h4></li>
+  <ul>
+    <li>Node.js: For server-side development</li>
+    <li>Express.js: For creating API routes</li>
+  </ul>
+  <li>Database</li>
+  <ul>
+    <li>MongoDB: For storing user and transaction data</li>
+  </ul>
+</ul>
 <h3>🔧 Installation and Setup</h3>
-<h4>Prerequisites:</h4>
-<p>Node.js installed on your system</p> <br>
-<p>MongoDB installed locally or access to a cloud database like MongoDB Atlas</p> <br>
-<h4>Steps:</h4>
-<p>1. Clone the repository:</p> <br>
-git clone https://github.com/your-username/expense-management-system.git <br>
-cd expense-management-system <br>
-<p>2. Install dependencies for both client and server:</p> <br>
-cd client <br>
-npm install <br>
-cd ../server <br>
-npm install <br>
-<p>3. Configure environment variables:</p> <br>
-Create a .env file in the server directory and specify the following: <br>
-MONGO_URI=your-mongodb-connection-string <br>
-PORT=5000 <br>
-JWT_SECRET=your-secret-key <br>
-<p>4. Start the development server:</p> <br>
-In the server directory: <br>
-npm run dev <br>
-In the client directory: <br>
-npm start <br>
-<p>5. Access the application at http://localhost:3000.</p>
+<ul>
+  <li><h4>Prerequisites:</h4></li>
+  <ul>
+    <li>Node.js installed on your system</li>
+    <li>MongoDB installed locally or access to a cloud database like MongoDB Atlas</li>
+  </ul>
+  <li><h4>Steps:</h4></li>
+  <ol>
+    <li>Clone the repository:</li>
+    git clone https://github.com/your-username/expense-management-system.git <br>
+    cd expense-management-system <br>
+    <li>Install dependencies for both client and server:</li>
+    cd client <br>
+    npm install <br>
+    cd ../server <br>
+    npm install <br>
+    <li>Configure environment variables:</li>
+    Create a .env file in the server directory and specify the following: <br>
+    MONGO_URI=your-mongodb-connection-string <br>
+    PORT=5000 <br>
+    <li>Start the development server:</li>
+    In the server directory: <br>
+    npm run dev <br>
+    In the client directory: <br>
+    npm start <br>
+    <li>Access the application at http://localhost:3000</li> 
+  </ol>
+</ul>
+
 
 <h3>📊 Screenshots</h3>
 <ol>
