@@ -1,9 +1,8 @@
 <h1>Expense Management System</h1>
-<h3>Overview</h3> <br>
+<h3>Overview</h3>
 <p>An Expense Management System built with the MERN stack (MongoDB, Express.js, React, and Node.js), designed to help users efficiently manage their expenses. This application offers features like login, registration, CRUD operations, transaction filtering, and insightful data representation in both tabular and graphical formats.</p>
 
 <h3>🚀 Features</h3>
-
 <ul>
   <li><h4>Authentication:</h4></li>
   <ul>
@@ -20,18 +19,20 @@
     <li>Tabular view for a detailed list of transactions</li>
     <li>Graphical charts for visualizing income and expenses trends</li>
   </ul>
-  
+  <li><h4>Responsive UI</h4></li>
+  <ul>
+     <li>Built with React, CSS, and Bootstrap for a seamless and responsive user interface</li>
+  </ul>
+  <li><h4>Real-time Updates</h4></li>
+   <ul>
+     <li>Built with React, CSS, and Bootstrap for a seamless and responsive user interface</li>
+     <li>All operations are reflected instantly in the system, thanks to the real-time backend architecture</li>
+  </ul>
+  <li>Database</li>
+  <ul>
+     <li>Transactions and user data stored securely in MongoDB</li>   
+  </ul>
 </ul>
-
-
-<p></p> <br>
-<p></p> <br>
-<h4>Responsive UI:</h4>
-<p>Built with React, CSS, and Bootstrap for a seamless and responsive user interface</p> <br>
-<h4>Real-time Updates:</h4>
-<p>All operations are reflected instantly in the system, thanks to the real-time backend architecture</p> <br>
-<h4>Database:</h4>
-<p>Transactions and user data stored securely in MongoDB</p> <br>
 <h3>🛠️ Tech Stack</h3>
 <h4>Frontend:</h4>
 <p>React.js: For building the user interface</p> <br>
