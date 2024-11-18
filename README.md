@@ -62,8 +62,11 @@ Contributions are welcome! If you'd like to contribute, please follow these step
 4. Push to the branch: git push origin feature-name <br>
 5. Open a pull request <br>
 <h3>🌟 Acknowledgments</h3>
-React and Bootstrap for building a modern and responsive frontend <br>
-Node.js, Express.js, and MongoDB for creating a robust and scalable backend <br>
-The open-source community for providing valuable tools and libraries <br>
+
+<ol>
+<li>React and Bootstrap for building a modern and responsive frontend</li> <br>
+<li>Node.js, Express.js, and MongoDB for creating a robust and scalable backend</li> <br>
+<li>The open-source community for providing valuable tools and libraries</li>
+</ol>
 
 
