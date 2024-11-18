@@ -83,8 +83,6 @@
     <li>Access the application at http://localhost:3000</li> 
   </ol>
 </ul>
-
-
 <h3>📊 Screenshots</h3>
 <ol>
   <li>Login Page</li><br>
@@ -99,7 +97,7 @@
   
   ![Screenshot 2024-11-17 120614](https://github.com/user-attachments/assets/61571604-29e6-4098-adb9-ae2b10de0612)
 
-  <li>Tabular Transactions View</li>
+  <li>Tabular Transactions View</li><br>
   
   ![Screenshot 2024-11-17 120544](https://github.com/user-attachments/assets/3a3fd49a-8a32-4d5a-95af-73921124ce19)
   
@@ -108,17 +106,17 @@
   ![Screenshot 2024-11-17 120658](https://github.com/user-attachments/assets/de46548f-b1a0-497d-9a72-3b1a591662ea)
   
 </ol>
-
 <h3>🤝 Contributing</h3>
-Contributions are welcome! If you'd like to contribute, please follow these steps: <br>
-<ol>
-<li>Fork the repository</li> <br>
-<li>Create a new branch: git checkout -b feature-name</li> <br>
-<li>Commit your changes: git commit -m 'Add some feature'</li> <br>
-<li>Push to the branch: git push origin feature-name</li> <br>
-<li>Open a pull request</li>
-
-</ol>
+<ul>
+  <li>Contributions are welcome! If you'd like to contribute, please follow these steps:</li>
+  <ol>
+  <li>Fork the repository</li> <br>
+  <li>Create a new branch: git checkout -b feature-name</li> <br>
+  <li>Commit your changes: git commit -m 'Add some feature'</li> <br>
+  <li>Push to the branch: git push origin feature-name</li> <br>
+  <li>Open a pull request</li>
+  </ol>
+</ul>
 <h3>🌟 Acknowledgments</h3>
 <ul>
 <li>React and Bootstrap for building a modern and responsive frontend</li> <br>
