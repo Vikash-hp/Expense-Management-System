@@ -26,7 +26,7 @@
   <li><h4>Real-time Updates</h4></li>
    <ul>
     <li>Built with React, CSS, and Bootstrap for a seamless and responsive user interface</li>
-    <li>All operations are reflected instantly in the system, thanks to the real-time backend architecture</li>
+    <li>All operations are reflected instantly in the system, thanks to the real-time backend architecture</li> <br>
   </ul>
   <li>Database</li>
   <ul>
