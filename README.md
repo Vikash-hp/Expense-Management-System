@@ -62,20 +62,24 @@
     <li>Clone the repository:</li>
     git clone https://github.com/your-username/expense-management-system.git <br>
     cd expense-management-system <br>
+    <br>
     <li>Install dependencies for both client and server:</li>
     cd client <br>
     npm install <br>
     cd ../server <br>
     npm install <br>
+    <br>
     <li>Configure environment variables:</li>
     Create a .env file in the server directory and specify the following: <br>
     MONGO_URI=your-mongodb-connection-string <br>
     PORT=5000 <br>
+    <br>
     <li>Start the development server:</li>
     In the server directory: <br>
     npm run dev <br>
     In the client directory: <br>
     npm start <br>
+    <br>
     <li>Access the application at http://localhost:3000</li> 
   </ol>
 </ul>
