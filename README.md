@@ -65,9 +65,8 @@
     cd expense-management-system <br>
     <br>
     <li>Install dependencies for both client and server:</li>
-    cd client <br>
     npm install <br>
-    cd ../server <br>
+    cd client <br>
     npm install <br>
     <br>
     <li>Configure environment variables:</li>
