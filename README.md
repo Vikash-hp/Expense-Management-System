@@ -61,7 +61,7 @@
   <li><h4>Steps:</h4></li>
   <ol>
     <li>Clone the repository:</li>
-    git clone https://github.com/your-username/expense-management-system.git <br>
+    git clone https://github.com/Vikash-hp/Expense-Management-System.git <br>
     cd expense-management-system <br>
     <br>
     <li>Install dependencies for both client and server:</li>
@@ -75,8 +75,8 @@
     PORT=5000 <br>
     <br>
     <li>Start the development server:</li>
-    To start Frontend and Backend Server concurrently:
-    npm run dev
+    To start Frontend and Backend Server concurrently: <br>
+    npm run dev <br>
     <br>
     <li>Access the application at http://localhost:5000</li> 
   </ol>
