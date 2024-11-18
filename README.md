@@ -75,12 +75,10 @@
     PORT=5000 <br>
     <br>
     <li>Start the development server:</li>
-    In the server directory: <br>
-    npm run dev <br>
-    In the client directory: <br>
-    npm start <br>
+    To start Frontend and Backend Server concurrently:
+    npm run dev
     <br>
-    <li>Access the application at http://localhost:3000</li> 
+    <li>Access the application at http://localhost:5000</li> 
   </ol>
 </ul>
 <h3>📊 Screenshots</h3>
