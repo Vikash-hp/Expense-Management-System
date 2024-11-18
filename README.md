@@ -1,16 +1,31 @@
 <h1>Expense Management System</h1>
 <h3>Overview</h3> <br>
-<p>An Expense Management System built with the MERN stack (MongoDB, Express.js, React, and Node.js), designed to help users efficiently manage their expenses. This application offers features like login, registration, CRUD operations, transaction filtering, and insightful data representation in both tabular and graphical formats.</p> <br>
+<p>An Expense Management System built with the MERN stack (MongoDB, Express.js, React, and Node.js), designed to help users efficiently manage their expenses. This application offers features like login, registration, CRUD operations, transaction filtering, and insightful data representation in both tabular and graphical formats.</p>
+
 <h3>🚀 Features</h3>
-<h4>Authentication:</h4>
-<p>User Registration</p> <br>
-<p>Login functionality with secure authentication</p> <br>
-<h4>Transaction Management:</h4>
-<p>Create, Read, Update, and Delete (CRUD) operations for expenses and income</p> <br>
-<p>Filter transactions by date, category, and type (income/expense)</p> <br>
-<h4>Data Representation:</h4>
-<p>Tabular view for a detailed list of transactions</p> <br>
-<p>Graphical charts for visualizing income and expenses trends</p> <br>
+
+<ul>
+  <li><h4>Authentication:</h4></li>
+  <ul>
+    <li>User Registration</li>
+    <li>Login functionality with secure authentication</li>
+  </ul>
+  <li><h4>Transaction Management:</h4></li>
+  <ul>
+    <li>Create, Read, Update, and Delete (CRUD) operations for expenses and income</li>
+    <li>Filter transactions by date, category, and type (income/expense)</li>
+  </ul>
+  <li><h4>Data Representation:</h4></li>
+  <ul>
+    <li>Tabular view for a detailed list of transactions</li>
+    <li>Graphical charts for visualizing income and expenses trends</li>
+  </ul>
+  
+</ul>
+
+
+<p></p> <br>
+<p></p> <br>
 <h4>Responsive UI:</h4>
 <p>Built with React, CSS, and Bootstrap for a seamless and responsive user interface</p> <br>
 <h4>Real-time Updates:</h4>
@@ -49,24 +64,30 @@ In the server directory: <br>
 npm run dev <br>
 In the client directory: <br>
 npm start <br>
-<p>5. Access the application at http://localhost:3000.</p> <br>
+<p>5. Access the application at http://localhost:3000.</p>
+
 <h3>📊 Screenshots</h3>
-<p>1.Login Page</p> <br>
-<p>2.Dashboard with Graphs</p> <br>
-<p>3.Tabular Transactions View</p> <br>
+<ol>
+  <li>Login Page</li><br>
+  <li>Dashboard with Graphs</li><br>
+  <li>Tabular Transactions View</li>
+</ol>
+
 <h3>🤝 Contributing</h3>
 Contributions are welcome! If you'd like to contribute, please follow these steps: <br>
-1. Fork the repository <br>
-2. Create a new branch: git checkout -b feature-name <br>
-3. Commit your changes: git commit -m 'Add some feature' <br>
-4. Push to the branch: git push origin feature-name <br>
-5. Open a pull request <br>
-<h3>🌟 Acknowledgments</h3>
-
 <ol>
+<li>Fork the repository</li> <br>
+<li>Create a new branch: git checkout -b feature-name</li> <br>
+<li>Commit your changes: git commit -m 'Add some feature'</li> <br>
+<li>Push to the branch: git push origin feature-name</li> <br>
+<li>Open a pull request</li>
+
+</ol>
+<h3>🌟 Acknowledgments</h3>
+<ul>
 <li>React and Bootstrap for building a modern and responsive frontend</li> <br>
 <li>Node.js, Express.js, and MongoDB for creating a robust and scalable backend</li> <br>
 <li>The open-source community for providing valuable tools and libraries</li>
-</ol>
+</ul>
 
 
