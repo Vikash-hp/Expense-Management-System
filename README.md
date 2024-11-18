@@ -35,7 +35,7 @@
 </ul>
 <h3>🛠️ Tech Stack</h3>
 <ul>
-  <li><h4>Frontend</h4></li>
+  <li><h4>Frontend:</h4></li>
   <ul>
     <li>React.js: For building the user interface</li>
     <li>CSS & Bootstrap: For styling and layout</li>
@@ -45,10 +45,11 @@
     <li>Node.js: For server-side development</li>
     <li>Express.js: For creating API routes</li>
   </ul>
-  <li>Database</li>
+  <li><h4>Database:</h4></li>
   <ul>
     <li>MongoDB: For storing user and transaction data</li>
   </ul>
+  
 </ul>
 <h3>🔧 Installation and Setup</h3>
 <ul>
