@@ -88,19 +88,25 @@
 <h3>📊 Screenshots</h3>
 <ol>
   <li>Login Page</li><br>
+  
   ![Screenshot 2024-11-17 120727](https://github.com/user-attachments/assets/fdb9e54f-dede-4ae8-9c45-f71412bc49ee)
 
   <li>Registration Page</li><br>
+  
   ![Screenshot 2024-11-17 120747](https://github.com/user-attachments/assets/dfe11383-2302-4a63-a8df-222c39b45982)
 
   <li>Add New Transaction Form</li><br>
+  
   ![Screenshot 2024-11-17 120614](https://github.com/user-attachments/assets/61571604-29e6-4098-adb9-ae2b10de0612)
 
   <li>Tabular Transactions View</li>
+  
   ![Screenshot 2024-11-17 120544](https://github.com/user-attachments/assets/3a3fd49a-8a32-4d5a-95af-73921124ce19)
   
   <li>Dashboard with Graphs</li><br>
+  
   ![Screenshot 2024-11-17 120658](https://github.com/user-attachments/assets/de46548f-b1a0-497d-9a72-3b1a591662ea)
+  
 </ol>
 
 <h3>🤝 Contributing</h3>
