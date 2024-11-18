@@ -54,7 +54,16 @@ npm start
 <p>1.Login Page</p>
 <p>2.Dashboard with Graphs</p>
 <p>3.Tabular Transactions View</p>
-<h3></h3>
-
+<h3>🤝 Contributing</h3>
+Contributions are welcome! If you'd like to contribute, please follow these steps:
+1. Fork the repository
+2. Create a new branch: git checkout -b feature-name
+3. Commit your changes: git commit -m 'Add some feature'
+4. Push to the branch: git push origin feature-name
+5. Open a pull request
+<h3>🌟 Acknowledgments</h3>
+React and Bootstrap for building a modern and responsive frontend
+Node.js, Express.js, and MongoDB for creating a robust and scalable backend
+The open-source community for providing valuable tools and libraries
 
 
