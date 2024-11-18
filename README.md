@@ -2,7 +2,7 @@
 <h3>Overview</h3> <br>
 <p>An Expense Management System built with the MERN stack (MongoDB, Express.js, React, and Node.js), designed to help users efficiently manage their expenses. This application offers features like login, registration, CRUD operations, transaction filtering, and insightful data representation in both tabular and graphical formats.</p>
 <h3>🚀 Features</h3>
-<h6>Authentication:</h6>
+<h4>Authentication:</h6>
 <p>User Registration</p>
 <p>Login functionality with secure authentication</p>
 <h6>Transaction Management:</h6>
